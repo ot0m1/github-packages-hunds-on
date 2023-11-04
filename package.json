@@ -1,5 +1,5 @@
 {
-  "name": "github-packages-hunds-on",
+  "name": "@ot0m1/github-packages-hunds-on",
   "version": "1.0.0",
   "description": "GitHub Packages Hands On",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "@otomi:registry": "https://npm.pkg.github.com"
+    "@ot0m1:registry": "https://npm.pkg.github.com"
   }
 }
